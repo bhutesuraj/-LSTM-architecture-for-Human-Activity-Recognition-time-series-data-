@@ -1,0 +1,25 @@
+Google drive link for dataset
+
+https://drive.google.com/drive/folders/1gXXMp0Fl74dbR7A74wY8pwETn15bU_3l?usp=sharing
+
+Steps for the execution of code
+1)Importing Numpy and Panda Library
+2)Six class labels activities are mentioned(define)
+3)function to print the confusion matrix
+4)UCI data directory
+5)Signals are from Accelerometer sensors and Gyroscope sensors(define) 
+6)importing data from local drive
+7)function to read the data from csv file and load the data
+8)Importing tensorflow API
+9)Configuring to the session
+10)Import Keras through tensorflow
+11)Importing libraries like LSTM layer,Sequential model,dense and dropout layer
+12)Initializing the parameters
+13)function to count the number of classes
+14)Loading the train data and test data
+15)Initiliazing the sequential model
+16)design of LSTM architecture
+17)Now Compiling the model
+18)Training the model
+19)Confusion Matrix Plotting
+20)Printing and plotting validation loss and accuracy
