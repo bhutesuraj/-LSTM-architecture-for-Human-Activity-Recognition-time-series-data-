@@ -1,4 +1,4 @@
-# -LSTM-architecture-for-Human-Activity-Recognition-time-series-data-
+# LSTM-architecture-for-Human-Activity-Recognition-time-series-data
 
 (This is an implementation project)
 
