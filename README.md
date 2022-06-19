@@ -1,0 +1,1 @@
+# -LSTM-architecture-for-Human-Activity-Recognition-time-series-data-
