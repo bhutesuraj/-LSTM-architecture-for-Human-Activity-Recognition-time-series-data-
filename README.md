@@ -1,4 +1,6 @@
-# LSTM-architecture-for-Human-Activity-Recognition-time-series-data
+# Course Name: Neural Networks and Application [EC61409]
+## LSTM Architecture for Human Activity Recognition - Course Project: Prof. Debashish Sen [Aug’21-Nov’21]      
+
 
 (This is an implementation project)
 
